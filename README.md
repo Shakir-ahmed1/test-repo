@@ -1,4 +1,4 @@
-[# 0x16\. C - Simple Shell
+# 0x16\. C - Simple Shell
 
 
 *   By: Julien Barbier
@@ -300,7 +300,7 @@ You don’t have to:
 *   be able to move the cursor
 *   handle commands with arguments
 
-_`execve` will be the core part of your Shell, don’t forget to pass the environ to it…_
+_`execve` will be the core part of your Shell, don’t forget to pass the environ to it…_:
 
     julien@ubuntu:~/shell$ ./shell 
     #cisfun$ ls
