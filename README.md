@@ -377,9 +377,7 @@ The Checker will be released at the end of the project (1-2 days before the dead
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "0. Betty would be proud"
-
-       Get a sandbox     ###  1. Simple shell 0.1 
+         ###  1. Simple shell 0.1 
 
   mandatory      Write a UNIX command line interpreter.
 
@@ -432,9 +430,7 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "1. Simple shell 0.1"
-
-       Get a sandbox     ###  2. Simple shell 0.2 
+     Get a sandbox     ###  2. Simple shell 0.2 
 
   mandatory      Simple shell 0.1 +
 
@@ -444,9 +440,7 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "2. Simple shell 0.2"
-
-       Get a sandbox     ###  3. Simple shell 0.3 
+     Get a sandbox     ###  3. Simple shell 0.3 
 
   mandatory      Simple shell 0.2 +
 
@@ -477,9 +471,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "3. Simple shell 0.3"
-
-       Get a sandbox     ###  4. Simple shell 0.4 
+         ###  4. Simple shell 0.4 
 
   mandatory      Simple shell 0.3 +
 
@@ -491,9 +483,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "4. Simple shell 0.4"
-
-       Get a sandbox     ###  5. Simple shell 1.0 
+         ###  5. Simple shell 1.0 
 
   mandatory      Simple shell 0.4 +
 
@@ -523,9 +513,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "5. Simple shell 1.0"
-
-       Get a sandbox     ###  6. Simple shell 0.1.1 
+         ###  6. Simple shell 0.1.1 
 
   #advanced      Simple shell 0.1 +
 
@@ -542,9 +530,7 @@ You don’t have to:
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "6. Simple shell 0.1.1"
-
-       Get a sandbox     ###  7. Simple shell 0.2.1 
+         ###  7. Simple shell 0.2.1 
 
   #advanced      Simple shell 0.2 +
 
@@ -554,9 +540,7 @@ You don’t have to:
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "7. Simple shell 0.2.1"
-
-       Get a sandbox     ###  8. Simple shell 0.4.1 
+         ###  8. Simple shell 0.4.1 
 
   #advanced      Simple shell 0.4 +
 
@@ -576,9 +560,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "8. Simple shell 0.4.1"
-
-       Get a sandbox     ###  9. setenv, unsetenv 
+         ###  9. setenv, unsetenv 
 
   #advanced      Simple shell 1.0 +
 
@@ -597,9 +579,7 @@ Implement the `setenv` and `unsetenv` builtin commands
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "9. setenv, unsetenv"
-
-       Get a sandbox     ###  10. cd 
+         ###  10. cd 
 
   #advanced      Simple shell 1.0 +
 
@@ -617,9 +597,7 @@ Implement the builtin command `cd`:
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "10. cd"
-
-       Get a sandbox     ###  11. ; 
+         ###  11. ; 
 
   #advanced      Simple shell 1.0 +
 
@@ -648,9 +626,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "11. ;"
-
-       Get a sandbox     ###  12. &amp;&amp; and || 
+         ###  12. &amp;&amp; and || 
 
   #advanced      Simple shell 1.0 +
 
@@ -696,9 +672,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "12. &amp;&amp; and ||"
-
-       Get a sandbox     ###  13. alias 
+         ###  13. alias 
 
   #advanced      Simple shell 1.0 +
 
@@ -712,9 +686,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "13. alias"
-
-       Get a sandbox     ###  14. Variables 
+         ###  14. Variables 
 
   #advanced      Simple shell 1.0 +
 
@@ -741,9 +713,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "14. Variables"
-
-       Get a sandbox     ###  15. Comments 
+         ###  15. Comments 
 
   #advanced      Simple shell 1.0 +
 
@@ -762,9 +732,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "15. Comments"
-
-       Get a sandbox     ###  16. File as input 
+         ###  16. File as input 
 
   #advanced      Simple shell 1.0 +
 
@@ -778,9 +746,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         Done?!   Help  ×#### Students who are done with "16. File as input"
-
-       Get a sandbox    ×#### Recommended Sandbox
+        ×#### Recommended Sandbox
 
 Running only### 1 image(1/2 Sandboxes spawned)
 
@@ -788,7 +754,7 @@ Running only### 1 image(1/2 Sandboxes spawned)
 
 Basic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for Foundations
 
-WakeDestroy  Copyright © 2023 ALX, All rights reserved.           ×#### Markdown Guide
+WakeDestroy Copyright © 2023 ALX, All rights reserved.           ×#### Markdown Guide
 
  #### Emphasis
 
