@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <!-- saved from url=(0040)https://intranet.alxswe.com/projects/235 -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -2523,3 +2523,4 @@ alert(example);
   
 
 <div id="493E8889-DDD0-8065-E1F4-05452A0B8484"></div></body></html>
+](https://intranet.alxswe.com/projects/235#:~:text=0x16.%20C%20%2D%20Simple,All%20rights%20reserved.)
