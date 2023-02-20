@@ -1,12 +1,9 @@
 0x16. C - Simple Shell
 ======================
 
-CGroup projectSyscall- By: Julien Barbier
-- Weight: 10
+ By: Julien Barbier
+
 - Project to be done in teams of 2 people (your team: silamlak desye, Shakir Muhammedsaid)
-- Project will start Feb 8, 2023 6:00 AM, must end by Feb 23, 2023 6:00 AM
-- Checker will be released at Feb 22, 2023 1:12 AM
-- An auto review will be launched at the deadline
 
 ### Concepts
 
@@ -15,7 +12,7 @@ CGroup projectSyscall- By: Julien Barbier
 - [Everything you need to know to start coding your own shell](https://intranet.alxswe.com/concepts/64)
 - [Approaching a Project](https://intranet.alxswe.com/concepts/350)
  
-  Background Context
+Background Context
 ------------------
 
 Write a simple UNIX command interpreter.
