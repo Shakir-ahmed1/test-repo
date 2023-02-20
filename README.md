@@ -2352,7 +2352,7 @@ julien@ubuntu:~/shell$
         </ul>
       </div>
 
-   <!-- Self-paced manual review -->
+    <!-- Self-paced manual review -->
   </div>
 
   <!-- Panel footer - Controls -->
