@@ -2467,7 +2467,7 @@ julien@ubuntu:~/shell$
             <h4>Emphasis</h4>
 <pre>**<strong>bold</strong>**
 *<em>italics</em>*
-~~~~<strike>strikethrough</strike>~~~~</pre>
+~~<strike>strikethrough</strike>~~</pre>
 <h4>Headers</h4>
 <pre># Big header
 ## Medium header
@@ -2499,6 +2499,12 @@ julien@ubuntu:~/shell$
 | Mary     | Smith    | Female   |
 
 <em>Or without aligning the columns...</em>
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| John | Doe | Male |
+| Mary | Smith | Female |
+</pre>
 <h4>Displaying code</h4>
 <pre>`var example = "hello!";`
 
