@@ -1,173 +1,4 @@
-      
-    window.dataLayer = window.dataLayer || [];
-    dataLayer.push({"userId":203835,"visitorType":"student","batch":{"id":59,"fullNameWithC":"ADD-1122 (C#11)","schoolLocation":{"id":4,"name":"Addis Ababa"}},"curriculum":{"id":1,"name":"Foundations"}});
-
-    window.gtm_user_custom_event = function (name, options) {
-      if (typeof name === 'undefined') {
-        return;
-      }
-
-      window.dataLayer.push({
-        customEventOptions: typeof options !== 'undefined' ? options : {},
-        event: name,
-      });
-    }
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-N4C8MF2');  Project: 0x16. C - Simple Shell | Addis Ababa Intranet           
-        Cookies.set('timezone', (new Date()).getTimezoneOffset() / -60.0);
-           
-@media print {
-  .MuiDialog-root {
-    position: absolute !important;
-  }
-}
-.MuiDialog-scrollPaper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.MuiDialog-scrollBody {
-  overflow-x: hidden;
-  overflow-y: auto;
-  text-align: center;
-}
-.MuiDialog-scrollBody:after {
-  width: 0;
-  height: 100%;
-  content: "";
-  display: inline-block;
-  vertical-align: middle;
-}
-.MuiDialog-container {
-  height: 100%;
-  outline: 0;
-}
-@media print {
-  .MuiDialog-container {
-    height: auto;
-  }
-}
-.MuiDialog-paper {
-  margin: 32px;
-  position: relative;
-  overflow-y: auto;
-}
-@media print {
-  .MuiDialog-paper {
-    box-shadow: none;
-    overflow-y: visible;
-  }
-}
-.MuiDialog-paperScrollPaper {
-  display: flex;
-  max-height: calc(100% - 64px);
-  flex-direction: column;
-}
-.MuiDialog-paperScrollBody {
-  display: inline-block;
-  text-align: left;
-  vertical-align: middle;
-}
-.MuiDialog-paperWidthFalse {
-  max-width: calc(100% - 64px);
-}
-.MuiDialog-paperWidthXs {
-  max-width: 444px;
-}
-@media (max-width:507.95px) {
-  .MuiDialog-paperWidthXs.MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.MuiDialog-paperWidthSm {
-  max-width: 600px;
-}
-@media (max-width:663.95px) {
-  .MuiDialog-paperWidthSm.MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.MuiDialog-paperWidthMd {
-  max-width: 960px;
-}
-@media (max-width:1023.95px) {
-  .MuiDialog-paperWidthMd.MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.MuiDialog-paperWidthLg {
-  max-width: 1280px;
-}
-@media (max-width:1343.95px) {
-  .MuiDialog-paperWidthLg.MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.MuiDialog-paperWidthXl {
-  max-width: 1920px;
-}
-@media (max-width:1983.95px) {
-  .MuiDialog-paperWidthXl.MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.MuiDialog-paperFullWidth {
-  width: calc(100% - 64px);
-}
-.MuiDialog-paperFullScreen {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  max-width: 100%;
-  max-height: none;
-  border-radius: 0;
-}
-.MuiDialog-paperFullScreen.MuiDialog-paperScrollBody {
-  margin: 0;
-  max-width: 100%;
-}
-       Toggle navigation     [](https://intranet.alxswe.com/) - [My Planning](https://intranet.alxswe.com/planning/me)
-- [Projects](https://intranet.alxswe.com/projects/current)
-- [QA Reviews I can make](https://intranet.alxswe.com/corrections/to_review)
-- [Evaluation quizzes](https://intranet.alxswe.com/dashboards/my_current_evaluation_quizzes)
----
-
-- [Curriculums](https://intranet.alxswe.com/dashboards/my_curriculums)
-- [Concepts](https://intranet.alxswe.com/concepts)
-- [Conference rooms](https://intranet.alxswe.com/dashboards/video_rooms)
-- [Servers](https://intranet.alxswe.com/servers)
-- [Sandboxes](https://intranet.alxswe.com/user_containers/current)
----
-
-- [Peers](https://intranet.alxswe.com/users/peers)
-- [Captain's Logs](https://intranet.alxswe.com/dashboards/my_captain_log)
----
-
--  [ Slack](https://alx-students.slack.com/)  [ My Profile](https://intranet.alxswe.com/users/my_profile) 
- 
-  [](https://intranet.alxswe.com/)- [My Planning](https://intranet.alxswe.com/planning/me)
-- [Projects](https://intranet.alxswe.com/projects/current)
-- [QA Reviews I can make](https://intranet.alxswe.com/corrections/to_review)
-- [Evaluation quizzes](https://intranet.alxswe.com/dashboards/my_current_evaluation_quizzes)
----
-
-- [Curriculums](https://intranet.alxswe.com/dashboards/my_curriculums)
-- [Concepts](https://intranet.alxswe.com/concepts)
-- [Conference rooms](https://intranet.alxswe.com/dashboards/video_rooms)
-- [Servers](https://intranet.alxswe.com/servers)
-- [Sandboxes](https://intranet.alxswe.com/user_containers/current)
----
-
-- [Peers](https://intranet.alxswe.com/users/peers)
-- [Captain's Logs](https://intranet.alxswe.com/dashboards/my_captain_log)
----
-
--  [ Slack](https://alx-students.slack.com/)  [ My Profile](https://intranet.alxswe.com/users/my_profile) 
- 
-   0x16. C - Simple Shell
+0x16. C - Simple Shell
 ======================
 
 CGroup projectSyscall- By: Julien Barbier
@@ -377,7 +208,7 @@ The Checker will be released at the end of the project (1-2 days before the dead
 
 - GitHub repository: `simple_shell`
  
-         ###  1. Simple shell 0.1 
+###  1. Simple shell 0.1 
 
   mandatory      Write a UNIX command line interpreter.
 
@@ -430,7 +261,7 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 
 - GitHub repository: `simple_shell`
  
-     Get a sandbox     ###  2. Simple shell 0.2 
+###  2. Simple shell 0.2 
 
   mandatory      Simple shell 0.1 +
 
@@ -440,7 +271,7 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 
 - GitHub repository: `simple_shell`
  
-     Get a sandbox     ###  3. Simple shell 0.3 
+###  3. Simple shell 0.3 
 
   mandatory      Simple shell 0.2 +
 
@@ -471,7 +302,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         ###  4. Simple shell 0.4 
+###  4. Simple shell 0.4 
 
   mandatory      Simple shell 0.3 +
 
@@ -483,7 +314,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         ###  5. Simple shell 1.0 
+###  5. Simple shell 1.0 
 
   mandatory      Simple shell 0.4 +
 
@@ -513,7 +344,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         ###  6. Simple shell 0.1.1 
+###  6. Simple shell 0.1.1 
 
   #advanced      Simple shell 0.1 +
 
@@ -530,7 +361,7 @@ You don’t have to:
 
 - GitHub repository: `simple_shell`
  
-         ###  7. Simple shell 0.2.1 
+###  7. Simple shell 0.2.1 
 
   #advanced      Simple shell 0.2 +
 
@@ -540,7 +371,7 @@ You don’t have to:
 
 - GitHub repository: `simple_shell`
  
-         ###  8. Simple shell 0.4.1 
+###  8. Simple shell 0.4.1 
 
   #advanced      Simple shell 0.4 +
 
@@ -560,7 +391,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         ###  9. setenv, unsetenv 
+###  9. setenv, unsetenv 
 
   #advanced      Simple shell 1.0 +
 
@@ -579,7 +410,7 @@ Implement the `setenv` and `unsetenv` builtin commands
 
 - GitHub repository: `simple_shell`
  
-         ###  10. cd 
+###  10. cd 
 
   #advanced      Simple shell 1.0 +
 
@@ -597,7 +428,7 @@ Implement the builtin command `cd`:
 
 - GitHub repository: `simple_shell`
  
-         ###  11. ; 
+###  11. ; 
 
   #advanced      Simple shell 1.0 +
 
@@ -626,7 +457,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
  
-         ###  12. &amp;&amp; and || 
+###  12. &amp;&amp; and || 
 
   #advanced      Simple shell 1.0 +
 
@@ -672,7 +503,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
  
-         ###  13. alias 
+###  13. alias 
 
   #advanced      Simple shell 1.0 +
 
@@ -686,7 +517,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
  
-         ###  14. Variables 
+###  14. Variables 
 
   #advanced      Simple shell 1.0 +
 
@@ -713,7 +544,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         ###  15. Comments 
+###  15. Comments 
 
   #advanced      Simple shell 1.0 +
 
@@ -732,7 +563,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
  
-         ###  16. File as input 
+###  16. File as input 
 
   #advanced      Simple shell 1.0 +
 
@@ -745,94 +576,3 @@ julien@ubuntu:~/shell$
    **Repo:**
 
 - GitHub repository: `simple_shell`
- 
-        ×#### Recommended Sandbox
-
-Running only### 1 image(1/2 Sandboxes spawned)
-
-### Ubuntu 20.04Asleep
-
-Basic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for Foundations
-
-WakeDestroy Copyright © 2023 ALX, All rights reserved.           ×#### Markdown Guide
-
- #### Emphasis
-
-```
-**bold**
-*italics*
-~~strikethrough~~
-```
-
-#### Headers
-
-```
-# Big header
-## Medium header
-### Small header
-#### Tiny header
-```
-
-#### Lists
-
-```
-* Generic list item
-* Generic list item
-* Generic list item
-
-1. Numbered list item
-2. Numbered list item
-3. Numbered list item
-```
-
-#### Links
-
-```
-[Text to display](http://www.example.com)
-```
-
-#### Quotes
-
-```
-> This is a quote.
-> It can span multiple lines!
-```
-
-#### Images
-
-CSS style available: `width, height, opacity`
-
-```
-![](http://www.example.com/image.jpg)
-![](http://www.example.com/image.jpg | width: 200px)
-![](http://www.example.com/image.jpg | height: 124px | width: 80px | opacity: 0.6)
-```
-
-#### Tables
-
-```
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| John     | Doe      | Male     |
-| Mary     | Smith    | Female   |
-
-Or without aligning the columns...
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| John | Doe | Male |
-| Mary | Smith | Female |
-```
-
-#### Displaying code
-
-`var example = "hello!";`
-
-Or spanning multiple lines...
-
-```
-var example = "hello!";
-alert(example);
-```
-
-   
